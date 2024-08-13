@@ -103,6 +103,8 @@ namespace Requestrr.WebApi.RequestrrBot
             {
                 { CommandType.Movie, new List<string>() },
                 { CommandType.Tv, new List<string>() },
+                { CommandType.IssueMovie, new List<string>() },
+                { CommandType.IssueTv, new List<string>() },
                 { CommandType.Misc, new List<string>() }
             };
             var code = File.ReadAllText(Program.CombindPath("SlashCommands.txt"));
