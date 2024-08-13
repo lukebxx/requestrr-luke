@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\Requestrr.WebApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Requestrr.WebApi\\Requestrr.WebApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Requestrr.WebApi\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\SettingsTemplate.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Requestrr.WebApi\\SettingsTemplate.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\ClientApp\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Requestrr.WebApi\\ClientApp\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\locales\\english.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Requestrr.WebApi\\locales\\english.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\nuget.config",
+              "RelativeDocumentMoniker": "Requestrr.WebApi\\nuget.config",
+              "ToolTip": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\nuget.config",
+              "RelativeToolTip": "Requestrr.WebApi\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-13T12:53:24.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Requestrr.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\Requestrr.WebApi.csproj",
+              "RelativeDocumentMoniker": "Requestrr.WebApi\\Requestrr.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\Requestrr.WebApi.csproj",
+              "RelativeToolTip": "Requestrr.WebApi\\Requestrr.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T12:50:56.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsTemplate.json",
+              "DocumentMoniker": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\SettingsTemplate.json",
+              "RelativeDocumentMoniker": "Requestrr.WebApi\\SettingsTemplate.json",
+              "ToolTip": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\SettingsTemplate.json",
+              "RelativeToolTip": "Requestrr.WebApi\\SettingsTemplate.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T12:48:54.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\ClientApp\\README.md",
+              "RelativeDocumentMoniker": "Requestrr.WebApi\\ClientApp\\README.md",
+              "ToolTip": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\ClientApp\\README.md",
+              "RelativeToolTip": "Requestrr.WebApi\\ClientApp\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-13T12:48:50.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "english.json",
+              "DocumentMoniker": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\locales\\english.json",
+              "RelativeDocumentMoniker": "Requestrr.WebApi\\locales\\english.json",
+              "ToolTip": "C:\\Users\\Luke\\source\\repos\\requestrr-luke\\Requestrr.WebApi\\locales\\english.json",
+              "RelativeToolTip": "Requestrr.WebApi\\locales\\english.json",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwBoAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T12:38:10.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Logos",
+    "\\Requestrr.WebApi",
+    "\\Requestrr.WebApi\\ClientApp"
   ],
-  "SelectedNode": "\\C:\\Users\\Luke\\Source\\Repos\\requestrr-luke",
+  "SelectedNode": "\\Requestrr.WebApi\\Requestrr.WebApi.csproj",
   "PreviewInSolutionExplorer": false
 }
