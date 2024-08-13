@@ -122,7 +122,6 @@
   "Discord.Command.Movie.Issue.Title.Description": "Report issue of movie by title",
   "Discord.Command.Movie.Issue.Title.Option.Name": "title",
   "Discord.Command.Movie.Issue.Title.Option.Description": "title of the movie",
-  "Discord.Command.Movie.Issue.Tmdb.Name": "movie-tmdb",
   "Discord.Command.Movie.Issue.Tmdb.Description": "Report issue of movie by tmdb id",
   "Discord.Command.Movie.Issue.Tmdb.Option.Name": "id",
   "Discord.Command.Movie.Issue.Tmdb.Option.Description": "tmdb id of the movie",
@@ -130,7 +129,6 @@
   "Discord.Command.Tv.Issue.Title.Description": "Report issue of tv show by title",
   "Discord.Command.Tv.Issue.Title.Option.Name": "title",
   "Discord.Command.Tv.Issue.Title.Option.Description": "title of the tv show",
-  "Discord.Command.Tv.Issue.Tvdb.Name": "tv-tvdb",
   "Discord.Command.Tv.Issue.Tvdb.Description": "Report issue of tv show by tvdb id",
   "Discord.Command.Tv.Issue.Tvdb.Option.Name": "id",
   "Discord.Command.Tv.Issue.Tvdb.Option.Description": "tvdb id of the tv show"
