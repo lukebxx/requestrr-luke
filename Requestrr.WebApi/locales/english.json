@@ -91,7 +91,7 @@
   "Discord.Command.Tv.Notification.Request.FutureSeason.Requested": "**All seasons** have been already requested, you can click on the notify me button directly under this message to be notified when future seasons becomes available.",
   "Discord.Command.Tv.Notification.Request.FutureSeason.Available": "**All seasons** are already available, you can click on the notify me button directly under this message to be notified when future seasons becomes available.",
   "Discord.Command.Tv.Notification.Success.FutureSeasons": "You will now receive a notification as soon as any **future seasons** of **[TvShowTitle]** becomes available to watch.",
-  "Discord.Command.Tv.Notification.Success.Season": "You will now receive a notification as soon as **season [SeasonNumber]** of **[TvShowTitle]** becomes available to watch.",
+  "Discord.Command.Tv.Notification.Success.Season": "You will now receive a notifications as soon as **season [SeasonNumber]** of **[TvShowTitle]** becomes available to watch.",
   "Discord.Command.Tv.CancelCommand": "cancel",
   "Discord.Embed.Tv.Search": "Tv Show Search",
   "Discord.Embed.Tv.SearchResult": "Search Results",
